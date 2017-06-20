@@ -1,0 +1,19 @@
+{
+  "name": "txt2xlsx",
+  "version": "1.0.0",
+  "description": "the textfile of dust research parse to xlsxfile",
+  "main": "index.html",
+  "window":{
+    "icon":"images/icon.png",
+    "frame":true,
+    "toolbar":true,
+    "width":418,
+    "height":418,
+    "position":"center",
+    "resizable":true
+  },
+  "dependencies": {
+    "json2xls": "^0.1.2"
+  },
+  "webkit":{}
+}
